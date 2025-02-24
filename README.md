@@ -5,3 +5,6 @@ LAB 1
 
 LAB 2
 ![image](https://github.com/user-attachments/assets/2861b554-8c91-46f0-9ec5-031e51e2ad57)
+
+LAB3 
+![image](https://github.com/user-attachments/assets/7f894544-445a-4e02-9bc4-acf3da3f479e)
